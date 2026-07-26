@@ -38,7 +38,7 @@ first here is where you can test it : https://rickyparmar-bot.itch.io/the-last-h
 
 #### Assets
 
-Pixel art: Custom farm tileset and sprites
+Pixel art: https://pixel-boy.itch.io/ninja-adventure-asset-pack
 
 #### Tech
 
