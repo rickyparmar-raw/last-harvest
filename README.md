@@ -10,7 +10,7 @@ _The clock is ticking. Every second counts. Can you harvest everything before it
 
 ### HOW TO PLAY
 
-first here is where you can test it : https://your-itch-link-here
+first here is where you can test it : https://rickyparmar-bot.itch.io/the-last-harvest
 
 → Use **Arrow Keys or WASD** to move your character
 
